@@ -3,8 +3,8 @@
 - This project is just a clone from [here](https://github.com/spring-projects/spring-petclinic)
 
 - Codecov test coverage:
-![codecov](https://codecov.io/gh/ttran9/tt-forecast-spring/branch/test-coverage/graph/badge.svg)
+![codecov](https://codecov.io/gh/jstran9/test-pet-clinic/branch/master/graph/badge.svg)
     
 - CircleCI build status:
-![CircleCI](https://circleci.com/gh/ttran9/tt-forecast-spring.svg?style=svg)
+![CircleCI](https://circleci.com/gh/jstran9/test-pet-clinic.svg?style=svg)
 
